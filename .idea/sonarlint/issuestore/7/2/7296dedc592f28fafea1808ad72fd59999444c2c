@@ -1,0 +1,7 @@
+
+G	java:S106%"+Replace this use of System.out by a logger.(ÿו8ֹ׃פ£ָ1
+G	java:S106F"+Replace this use of System.out by a logger.(כÊני8ׁ׃פ£ָ1
+o
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ב³וט8ת€₪ָ1
+o
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¿ּ׃˜8ׂ׃פ£ָ1

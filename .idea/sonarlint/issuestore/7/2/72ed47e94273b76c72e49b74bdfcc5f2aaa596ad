@@ -1,0 +1,7 @@
+
+G	java:S106="+Replace this use of System.out by a logger.(‚é‰ƒ8åÉî±Ä1
+t
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§¯ìŒüÿÿÿÿ8æÉî±Ä1
+]
+java:S1119E";Refactor the code to remove this label and the need for it.(¦Ë¹üÿÿÿÿ8èÉî±Ä1
+G	java:S106Y"+Replace this use of System.out by a logger.(àÑÀÆ8êÉî±Ä1
