@@ -1,6 +1,0 @@
-
-L	java:S106"+Replace this use of System.out by a logger.(าละแ๚ÿÿÿÿ8ุขกอ1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ไ๑8ฺขกอ1
-ใ
-java:S6541"ลA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 67 to 64, Complexity from 35 to 14, Nesting Level from 4 to 2, Number of Variables from 17 to 6.(ไ๑8๕กอ1
